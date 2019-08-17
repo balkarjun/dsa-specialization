@@ -3,7 +3,7 @@ Solutions to programming assignments from the [Data Structures and Algorithms Sp
 
 The specialization contains 6 courses:
 - [Algorithmic Toolbox](https://github.com/jarbun/dsa-specialization/tree/master/1-algorithmic-toolbox)
-- Data Structures
+- [Data Structures](https://github.com/jarbun/dsa-specialization/tree/master/2-data-structures)
 - Algorithms on Graphs
 - Algorithms on Strings
 - Advanced Algorithms and Complexity
