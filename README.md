@@ -5,6 +5,6 @@ The specialization contains 6 courses:
 - [Algorithmic Toolbox](https://github.com/jarbun/dsa-specialization/tree/master/1-algorithmic-toolbox)
 - [Data Structures](https://github.com/jarbun/dsa-specialization/tree/master/2-data-structures)
 - [Algorithms on Graphs](https://github.com/jarbun/dsa-specialization/tree/master/3-algorithms-on-graphs)
-- [Algorithms on Strings] (https://github.com/balkarjun/dsa-specialization/tree/master/4-algorithms-on-strings)
+- [Algorithms on Strings](https://github.com/balkarjun/dsa-specialization/tree/master/4-algorithms-on-strings)
 - Advanced Algorithms and Complexity
 - Genome Assembly Programming Challenge
